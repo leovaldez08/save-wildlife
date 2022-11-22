@@ -39,6 +39,7 @@ nav,
   width: 500px;
   /* Your code goes here */
   display: flex;
+  align-items: center;
   justify-content: space-between;
 }
 
